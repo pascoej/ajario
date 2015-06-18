@@ -4,6 +4,8 @@ Something cooked up one night.
 
 ![](http://i.imgur.com/dR3iFGU.jpg)
 
+[./ajario.jar](Fat jar download - Click to open)
+
 ##Keybinds
 \ -> Show fps/updates/sec
 ~ -> Server chooser / options
