@@ -4,15 +4,21 @@ Something cooked up one night.
 
 ![](http://i.imgur.com/dR3iFGU.jpg)
 
-[./ajario.jar](Fat jar download - Click to open)
+[Fat jar download - Click to open](./ajario.jar)
 
 ##Keybinds
 \ -> Show fps/updates/sec
+
 ~ -> Server chooser / options
+
 9 -> Fullscreen (broken since switch to canvas window)
+
 ESC -> Quit
+
 W -> Eject mass
+
 Space -> Split
+
 You can press any key to join a game.
 
 ##Notes
